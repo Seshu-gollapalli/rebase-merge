@@ -1,0 +1,3 @@
+print 'world'
+.!/bin/bash
+echo "hello"
