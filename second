@@ -1,3 +1,5 @@
 print 'world'
 .!/bin/bash
 echo "hello"
+if a=1
+print 'banana'
